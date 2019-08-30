@@ -1,7 +1,11 @@
-# geo-ninjas
+# Vue geolocation
+This is a simple geolocation app built with VueJs anf Firebase and google maps api
 
 ## Project setup
 ```
+
+create a folder firebase and an init.js file in the src folder
+place your firebase cloud credentials in the init file
 npm install
 ```
 
