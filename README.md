@@ -1,5 +1,5 @@
 # Vue geolocation
-This is a simple geolocation app built with VueJs anf Firebase and google maps api
+This is a simple geolocation app built with VueJs, Firebase and Google maps api
 
 ## Project setup
 ```
